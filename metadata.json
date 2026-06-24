@@ -1,0 +1,6 @@
+{
+  "name": "Bible Reading Plan",
+  "description": "A comprehensive Bible reading plan mobile app featuring progress tracking, daily study schedules, customizable plans, daily verse reflections, reading streaks, and verse notes, highlights, and audio text-to-speech features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
